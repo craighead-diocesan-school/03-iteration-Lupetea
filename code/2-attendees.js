@@ -8,6 +8,7 @@ function attendees() {
   let attendeeList = ''
   
   while (count < numOfAttendees) {
+    alert('Who are the 5 attendees, list them below.')
     let attendee = prompt()
     attendeeList = attendeeList + attendee
     attendeeList = attendeeList + ', '
@@ -18,6 +19,7 @@ function attendees() {
 }
 
 function make2() {
-  // copy and paste your code here when you get to the Make step
+  
+  
   
 }
