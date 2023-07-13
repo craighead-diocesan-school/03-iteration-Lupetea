@@ -13,6 +13,7 @@ function attendees() {
     attendeeList = attendeeList + attendee
     attendeeList = attendeeList + ', '
     count = count + 1
+    numOfAttendees=attendeeList
   }
   
   alert(attendeeList) 
