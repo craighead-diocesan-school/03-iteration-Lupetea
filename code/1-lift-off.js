@@ -3,7 +3,10 @@
 // ####################################
 
 function liftOff() {
-  let count = 10
+
+  alert('Give me a maximum number that this program will count to from 0')
+  let answer= prompt()
+  let count = answer
  
   while (count > 0) {
     alert(count + '...')
@@ -11,9 +14,4 @@ function liftOff() {
   }
    
   alert('Lift Off!')
-}
-
-function make1() {
-  // copy and paste your code here when you get to the Make step
-  
 }

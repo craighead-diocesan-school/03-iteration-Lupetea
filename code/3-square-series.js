@@ -3,5 +3,8 @@
 // ####################################
 
 function squareSeries() {
-  // write your code here
+  let count=1
+  let increment=1
+
+  let 
 }
