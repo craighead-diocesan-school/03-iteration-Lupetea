@@ -3,7 +3,7 @@
 // ####################################
 
 function factorial() {
-  // 5!= 5*4*3*2*1= 120
+  // 5!= 5* 4* 3* 2* 1= 120
 
 
   let factorial= prompt('Give me a number to factorial')
